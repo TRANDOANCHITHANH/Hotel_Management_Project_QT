@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.qrc</file>
+        <file>New folder/add.png</file>
+        <file>New folder/add-user.png</file>
+        <file>New folder/avc.png</file>
+        <file>New folder/back.png</file>
+        <file>New folder/bca.png</file>
+        <file>New folder/brazilian-real.png</file>
+        <file>New folder/checkout.png</file>
+        <file>New folder/check-out.png</file>
+        <file>New folder/de.png</file>
+        <file>New folder/delete.png</file>
+        <file>New folder/facebook.png</file>
+        <file>New folder/gmail.png</file>
+        <file>New folder/google.png</file>
+        <file>New folder/hotel.png</file>
+        <file>New folder/key-card (1).png</file>
+        <file>New folder/key-card.png</file>
+        <file>New folder/LasVegas0000.jpg</file>
+        <file>New folder/login.png</file>
+        <file>New folder/login1.png</file>
+        <file>New folder/low-res-logo.png</file>
+        <file>New folder/lux.jpg</file>
+        <file>New folder/ok.jpeg</file>
+        <file>New folder/password.png</file>
+        <file>New folder/plus.png</file>
+        <file>New folder/PRO.jpg</file>
+        <file>New folder/test.png</file>
+        <file>New folder/twitter.png</file>
+        <file>New folder/user.png</file>
+        <file>New folder/save.png</file>
+        <file>New folder/server.png</file>
+        <file>New folder/guest-list.png</file>
+        <file>New folder/check-in (1).png</file>
+        <file>New folder/loading.png</file>
+        <file>New folder/save-file.png</file>
+        <file>New folder/search.png</file>
+        <file>New folder/employee.png</file>
+        <file>New folder/company_card.png</file>
+        <file>New folder/Corporate Management.png</file>
+        <file>New folder/empcardbg.png</file>
+        <file>New folder/attendancebg.png</file>
+        <file>New folder/bar-chart.png</file>
+        <file>New folder/bar-graph.png</file>
+        <file>New folder/bar-graph1.png</file>
+        <file>New folder/calendar-date.png</file>
+        <file>New folder/check-out (1).png</file>
+        <file>New folder/absentbg.png</file>
+        <file>New folder/credit-card.png</file>
+        <file>New folder/maestro.png</file>
+        <file>New folder/pay.png</file>
+        <file>New folder/visa.png</file>
+        <file>New folder/top_bar.png</file>
+    </qresource>
+</RCC>
